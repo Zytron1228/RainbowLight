@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         rainbowEffect()
 
     }
-    
+
     private fun rainbowEffect() {
 
         val rainbow0 = "#FF0000"
@@ -247,7 +247,7 @@ class MainActivity : AppCompatActivity() {
                                                                                                                                                                                                                                                                                           handler.postDelayed({
                                                                                                                                                                                                                                                                                               theScreen.setBackgroundColor(rainbow335.toColorInt())
                                                                                                                                                                                                                                                                                               handler.postDelayed({
-                                                                                                                                                                                                                                                                                                  theScreen.setBackgroundColor(rainbow340.toColorInt())
+                                                                                                                                                                                                                                                                                                  theScreen.setBackgroundColor(rainbow340.toColorInt()) // K its 2:50 U can cry now.
                                                                                                                                                                                                                                                                                                   handler.postDelayed({
                                                                                                                                                                                                                                                                                                       theScreen.setBackgroundColor(rainbow345.toColorInt())
                                                                                                                                                                                                                                                                                                       handler.postDelayed({
